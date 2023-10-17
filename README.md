@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vivekananda05
+- 👋 Hi, I’m Vivekananda Giri
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data science in python, AI, DSA
+- 🌱 I’m currently learning data science in python, AI, DSA in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
